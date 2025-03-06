@@ -11,6 +11,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
     public float horizontalInput;
     public float speed = 10.0f;
     public float xRange = 10.0f;
+    public GameObject projectilePrefab;
 
     // Update is called once per frame
     void Update()
